@@ -1,0 +1,40 @@
+Amareesh -> Ram Dahin Singh  Maths Instructor Bsc. Maths
+Mithilesh-> Nageshwsar Suprintendent
+
+------------
+Delete 1,2,3,6,8
+------------
+
+-------------
+New Entries:
+-------------
+Subodh Kumar IT
+Sunil Kumar Sharma Fitter
+Md Kalim Ansari Electrician
+Ravi Ranjan Kumar Singh Librarian Staff
+Anil Kumar Singh Store Keeper
+
+About Institute
+DGET no. etc
+
+Trades Affliated to NCVT
+Trade	
+Elctrian 2+2	2	21	84	DGET Application number
+Fitter 1+1		2	21	42	DGET Application number
+
+Summary of Trade affliated to NCVT
+total 
+Electrician	2+2
+Fitter 		1+1
+
+Electric Meter Supply 
+
+Visitors 
+Write something
+
+Rating of Institute 
+QCI has rated our standard with 
+
+Extra Curricular Activities 
+
+Application Format for course
